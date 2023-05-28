@@ -1,6 +1,6 @@
 .modal-blog.modal,
 .modal-blog.overlay {
-  overflow: scroll;
+  /* overflow: scroll; */
 }
 .modal-blog.modal .modal-content {
   position: relative;

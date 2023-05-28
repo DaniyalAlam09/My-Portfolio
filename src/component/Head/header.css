@@ -1,6 +1,10 @@
 header {
-  height: 10vh;
-  line-height: 10vh;
+  /* height: 10vh;
+  line-height: 10vh; */
+
+  text-align: center;
+  justify-content: center;
+  margin :0 auto;
 }
 header .container {
   padding-top: 15px;

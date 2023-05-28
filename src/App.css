@@ -4,12 +4,12 @@
   margin: 0;
   box-sizing: border-box;
 }
-html {
+/* html {
   scroll-behavior: smooth;
-}
+} */
 body {
   font-family: "Poppins", sans-serif;
-  background-color: #ecf0f3;
+  /* background-color: #ecf0f3; */
 }
 .container {
   max-width: 95%;

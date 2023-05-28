@@ -9,7 +9,7 @@ import skill2 from "../pic/skill2.png"
 import skill3 from "../pic/skill3.png"
 import { Typewriter } from "react-simple-typewriter"
 
-const Home = () => {
+const Hero = () => {
   return (
     <>
       <section className='hero' id='home'>
@@ -74,4 +74,4 @@ const Home = () => {
   )
 }
 
-export default Home
+export default Hero

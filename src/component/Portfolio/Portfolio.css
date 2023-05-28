@@ -136,7 +136,7 @@ body.active-modal {
 @media (max-width: 768px) {
   .modal,
   .overlay {
-    overflow: scroll;
+    /* overflow: scroll; */
   }
 
   .modal .modal-img {
